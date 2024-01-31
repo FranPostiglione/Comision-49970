@@ -1,6 +1,6 @@
 const Section = () => {
     return (
-        <p>REMERAS</p>
+        <p></p>
     )
 
 
