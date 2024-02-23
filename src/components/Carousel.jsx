@@ -13,24 +13,15 @@ const Carousel = () => {
         <div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src={remeranikebanner} alt="remera" height={"50%"} width={"100%"} className="d-block" />
-                        <div className="carousel-caption d-none">
-                            <h2>REMERAS</h2>
-                                
-        </div>
+                    <img src={remeranikebanner} alt="remera" height={"100%"} width={"100%"} className="d-block" />
                 </div>
     <div className="carousel-item">
         <img src={Nikezapatillas} alt="remera" height={"100%"} width={"100%"} className="d-block" />
-      <div className="carousel-caption d-none d-md-block">
-        <h2>BUZOS</h2>
-      </div>
+      
     </div>
     <div>
     <div className="carousel-item">
         <img src={buzosnike} alt="remera" height={"100%"} width={"100%"} className="d-block" />
-      <div className="carousel-caption d-none d-md-block">
-        <h2>JOGGERS</h2>
-      </div>
     </div>
   </div>
   </div>
