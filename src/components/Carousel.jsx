@@ -1,6 +1,6 @@
-import remeraportada from "../assets/remeras-portada.jpg"
-import hoddies from "../assets/hoddies.jpg"
-import joggers from "../assets/joggers.jpg"
+import remeranikebanner from "../assets/remeranikebanner.jpg"
+import Nikezapatillas from "../assets/Nikezapatillas.jpg"
+import buzosnike from "../assets/buzosnike.jpg"
 
 const Carousel = () => {
     return (
@@ -13,21 +13,21 @@ const Carousel = () => {
         <div>
             <div className="carousel-inner">
                 <div className="carousel-item active">
-                    <img src={remeraportada} alt="remera" height={800} width={1700} className="d-block" />
-                        <div className="carousel-caption d-none d-md-block">
+                    <img src={remeranikebanner} alt="remera" height={"50%"} width={"100%"} className="d-block" />
+                        <div className="carousel-caption d-none">
                             <h2>REMERAS</h2>
                                 
         </div>
                 </div>
     <div className="carousel-item">
-        <img src={hoddies} alt="remera" height={900} width={1700} className="d-block" />
+        <img src={Nikezapatillas} alt="remera" height={"100%"} width={"100%"} className="d-block" />
       <div className="carousel-caption d-none d-md-block">
         <h2>BUZOS</h2>
       </div>
     </div>
     <div>
     <div className="carousel-item">
-        <img src={joggers} alt="remera" height={800} width={1700} className="d-block" />
+        <img src={buzosnike} alt="remera" height={"100%"} width={"100%"} className="d-block" />
       <div className="carousel-caption d-none d-md-block">
         <h2>JOGGERS</h2>
       </div>

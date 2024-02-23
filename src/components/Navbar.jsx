@@ -1,6 +1,6 @@
 import LogoPagina from "../assets/LogoPagina.jpg";
-import Carrito from "../assets/cart3.svg";
 import { Link } from "react-router-dom";
+import CartWidget from "./CartWidget";
 
 const Navbar = () => {
     return (
@@ -40,7 +40,9 @@ const Navbar = () => {
     <Link to= {"/"}>
     <img src={LogoPagina} alt="LogoTienda" width={100} />
     </Link>
-    <img src={Carrito} alt="CarritoLogo" width={30}/>
+    <div className="col-md-1 d-flex align-items-center justify-content-end">
+          <CartWidget />
+    </div>
   </div>
 </nav>
   </div>

@@ -1,18 +1,18 @@
 [
-    {"id":1, "title":"Remera Lightblue", "description": "Remera de Moda para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/838291-1000-1000?v=638386773856200000&width=1000&height=1000&aspect=true", "price":"35000", "categoria":"remeras"},
+    {"idx":1, "title":"Remera Lightblue", "description": "Remera de Moda para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/838291-1000-1000?v=638386773856200000&width=1000&height=1000&aspect=true", "price":"35000", "categoria":"remeras", "stock":"10"},
     
-    {"id":2, "title":"Remera Aqua Green", "description": "Remera de Entrenamiento para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/317402-600-600?v=638128482673000000&width=600&height=600&aspect=true", "price":"$41.999", "categoria":"remeras"},
+    {"idx":2, "title":"Remera Aqua Green", "description": "Remera de Entrenamiento para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/317402-600-600?v=638128482673000000&width=600&height=600&aspect=true", "price":"$41.999", "categoria":"remeras", "stock":"10" },
     
-    {"id":3, "title":"Remera Basic White", "description": "Remera Jordan para Mujer","image":"https://nikearprod.vtexassets.com/arquivos/ids/510210-600-600?v=638155335275900000&width=600&height=600&aspect=true", "price":"45000", "categoria":"remeras"},
+    {"idx":3, "title":"Remera Basic White", "description": "Remera Jordan para Mujer","image":"https://nikearprod.vtexassets.com/arquivos/ids/510210-600-600?v=638155335275900000&width=600&height=600&aspect=true", "price":"45000", "categoria":"remeras", "stock":"10"},
     
-    {"id":4, "title":"Jordan 1 Low", "description": "zapatillas Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/730429-600-600?v=638308266751400000&width=600&height=600&aspect=true", "price":"222999", "categoria":"zapatillas"},
+    {"idx":4, "title":"Jordan 1 Low", "description": "zapatillas Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/730429-600-600?v=638308266751400000&width=600&height=600&aspect=true", "price":"222999", "categoria":"zapatillas", "stock":"10"},
     
-    {"id":5, "title":"Jordan 2 Retro", "description": "Remera de Moda para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/455323-600-600?v=638149324044570000&width=600&height=600&aspect=true", "price":"216000", "categoria":"zapatillas"},
+    {"idx":5, "title":"Jordan 2 Retro", "description": "Remera de Moda para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/455323-600-600?v=638149324044570000&width=600&height=600&aspect=true", "price":"216000", "categoria":"zapatillas", "stock":"10"},
     
-    {"id":6, "title":"Jordan Stadium 90", "description": "zapatillas Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/731816-600-600?v=638308288004530000&width=600&height=600&aspect=true", "price":"213000", "categoria":"zapatillas"},
+    {"idx":6, "title":"Jordan Stadium 90", "description": "zapatillas Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/731816-600-600?v=638308288004530000&width=600&height=600&aspect=true", "price":"213000", "categoria":"zapatillas", "stock":"10"},
     
-    {"id":7, "title":"Jordan Brooklyn Fleece", "description": "Buzo con Capucha Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/530975-600-600?v=638161372319700000&width=600&height=600&aspect=true", "price":"67599", "categoria":"buzos"},
+    {"idx":7, "title":"Jordan Brooklyn Fleece", "description": "Buzo con Capucha Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/530975-600-600?v=638161372319700000&width=600&height=600&aspect=true", "price":"67599", "categoria":"buzos", "stock":"10"},
     
-    {"id":8, "title":"Jordan Artist Series by Umar Rashid", "description": "Buzo con Capucha Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/681159-600-600?v=638224564794270000&width=600&height=600&aspect=true", "price":"107.999", "categoria":"buzos"}
+    {"idx":8, "title":"Jordan Artist Series by Umar Rashid", "description": "Buzo con Capucha Jordan para Hombre","image":"https://nikearprod.vtexassets.com/arquivos/ids/681159-600-600?v=638224564794270000&width=600&height=600&aspect=true", "price":"107.999", "categoria":"buzos", "stock":"10"}
 
 ]
